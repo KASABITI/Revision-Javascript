@@ -1,0 +1,15 @@
+Generer un nombre aléatoire entre 1 et 100
+    ....> stocker ce nombre : var
+
+
+limiter le nombre de tentative
+....input
+...stocker valeur saisie ;var
+
+Fournir un endroit de saisie
+
+
+espace pour afficher les propositions
+
+
+verifier si le nombre saisie est correct:
